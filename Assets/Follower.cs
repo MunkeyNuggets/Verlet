@@ -11,8 +11,7 @@ public class Follower : MonoBehaviour {
     public GameObject thisObject;
 
     // Use this for initialization
-    void Start () {
-        newPos_ = VerletPhysicsEngine
+    void Start () { 
 
 
     }
